@@ -15,7 +15,8 @@
           'xcode_settings': {
             'OTHER_CFLAGS': [
               '-Wall',
-              '-ObjC++'
+              '-ObjC++',
+              '-Wdeprecated-declarations'
             ]
           }
         }]
